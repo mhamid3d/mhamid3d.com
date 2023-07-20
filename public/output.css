@@ -1528,10 +1528,6 @@ video {
   flex-wrap: wrap;
 }
 
-.flex-nowrap{
-  flex-wrap: nowrap;
-}
-
 .place-items-center{
   place-items: center;
 }
@@ -3433,11 +3429,6 @@ body,
 .before\:-left-\[25px\]::before{
   content: var(--tw-content);
   left: -25px;
-}
-
-.before\:-top-\[70px\]::before{
-  content: var(--tw-content);
-  top: -70px;
 }
 
 .before\:-top-\[80px\]::before{
