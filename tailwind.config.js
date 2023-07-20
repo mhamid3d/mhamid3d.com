@@ -25,10 +25,10 @@ module.exports = withMT({
       }),
       fontFamily: {
         belanosima: ["Belanosima", "serif"],
-        montserrat: ["Montserrat", "sans-serif"],
+        sans: ["Montserrat", "sans-serif"],
       },
       content: {
-        brush: "url('./assets/brush.png')"
+        brush: "url('./assets/brush2.png')"
       },
     },
     screens: {

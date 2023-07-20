@@ -49,7 +49,7 @@ const Landing = ({ setSelectedPage }) => {
             Mohammed {""}
             <span
               className="xs:relative xs:text-deep-blue xs:font-semibold z-20 xs:before:content-brush
-              before:absolute before:-left-[25px] before:-top-[70px] before:z-[-1]"
+              before:absolute before:-left-[25px] before:-top-[80px] before:z-[-1]"
             >
               Hamid
             </span>
