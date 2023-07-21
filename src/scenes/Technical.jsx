@@ -136,7 +136,7 @@ const TechnicalWork = () => {
             <h4 className="font-semibold text-xl mt-8"><span><LinkIcon className="mr-2 opacity-75 align-sub" /></span>Asset URI - USD AR 2.0</h4>
             <LineGradient width="w-1/3" />
             <p>
-              URI implementation for to produce modular and agnostic file paths. USD AR 2.0 support.
+              URI implementation to produce modular and agnostic file paths. USD AR 2.0 support.
             </p>
             <img className="mt-4 rounded-lg" src="./assets/tech_slides/uri_resolve.png"/>
           </div>
